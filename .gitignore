@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+src/
+gulpfile.js
+package.json
+package-lock.json
+.DS_Sotre
+.env
+apps.sql
+AppSalon.code-workspace
